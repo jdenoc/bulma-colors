@@ -1,0 +1,12 @@
+{
+    "name": "jdenoc/bulma-colors",
+    "description": "Provides a PHP class that contains hex colors values documented in the Bulma CSS framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jdenoc\\BulmaColors\\": "src/"
+        }
+    },
+    "require": {}
+}
