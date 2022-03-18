@@ -1,6 +1,6 @@
 <?php
 
-namespace Jdenoc\TailwindColors;
+namespace Jdenoc\BulmaColors;
 
 use InvalidArgumentException;
 
